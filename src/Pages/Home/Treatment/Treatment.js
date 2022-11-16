@@ -3,7 +3,7 @@ import treatment from '../../../assets/images/treatment.png'
 
 const Treatment = () => {
     return (
-        <div className="card lg:card-side bg-base-100 shadow-xl ml-24 mb-16">
+        <div className="card lg:card-side bg-base-100 shadow-xl lg:ml-24 mb-16">
             <figure><img className='' src={treatment} alt="Album" /></figure>
             <div className="card-body">
                 <h2 className="card-title text-5xl font-bolder">Exceptional Dental <br/> Care On Your Terms</h2>
